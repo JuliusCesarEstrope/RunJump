@@ -1,0 +1,21 @@
+Initialize engine version: 5.2.2p3 (d754cab481bc)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7340 Graphics (ID=0x9808)
+    Vendor:   ATI
+    VRAM:     373 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\JulusCesar\Desktop\The Goods\Creativity\Simple Mobile\TestGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\JulusCesar\Desktop\The Goods\Creativity\Simple Mobile\TestGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\JulusCesar\Desktop\The Goods\Creativity\Simple Mobile\TestGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\JulusCesar\Desktop\The Goods\Creativity\Simple Mobile\TestGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\JulusCesar\Desktop\The Goods\Creativity\Simple Mobile\TestGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\JulusCesar\Desktop\The Goods\Creativity\Simple Mobile\TestGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\JulusCesar\Desktop\The Goods\Creativity\Simple Mobile\TestGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\JulusCesar\Desktop\The Goods\Creativity\Simple Mobile\TestGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\JulusCesar\Desktop\The Goods\Creativity\Simple Mobile\TestGame_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.184 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
